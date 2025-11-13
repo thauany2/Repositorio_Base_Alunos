@@ -1,1 +1,1 @@
-Aqui, vocês vão colocar os códigos que são só exercícios, aqueles que utilizamos para reforçar o conteúdo. 
+Aqui, vocês vão colocar os códigos sobre módulos extra, o módulo random por exemplo, pandas etc
